@@ -1,18 +1,20 @@
 # CodeAlpha project-2 Calculator 
 ### Frontend Internship Project
 ### FAIZ MUAHAMMAD
-**Live Link:**
+
 
 **Features:**
--Addition, Substraction, Multiplication, Division
--Clear Option button
--Resposive Design
+-Basic arithmetic opreation: Addition, Substraction, Multiplication & Division.
+-Clear Functionality.
+-Decimal point support .
+-Resposive Design 
+-Clean & simple UI.
+**Tech stack:**
+-**HTML5** 
+-**CSS3**
+**JavaScript**
 
-**Using Teachnologies:**
--Html, Css, & JavaScript
-
-**How To Use**
-1. CLone this repo
-2. Open index.html
+**How To Run Locally**
+1. CLone the repository.
 
 
